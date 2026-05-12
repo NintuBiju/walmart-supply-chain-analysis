@@ -61,7 +61,13 @@ See [`data/data_description.md`](data/data_description.md) for full details.
 ---
 
 ## 🔍 Key Findings
-*(To be updated as analysis progresses)*
+## 🔍 Key Findings
+- Only **70.7%** of deliveries are on time — 100,205 late events in 2024-2025
+- **Apparel** is in crisis at **37.3% on-time** — root cause: 81% of orders are split shipments with no coordination
+- **Reverse Logistics** at 44.1% on-time — disputed and damaged returns have 0% on-time and 100% revenue leakage
+- **Supplier-to-DC** channel at 54.8% — 45% of inbound shipments pre-flagged as delayed or short-shipped
+- All regions perform within 0.5% of each other — the problem is systemic, not regional
+- Performance has been flat for 24 months — no improvement trend detected
 
 ---
 
