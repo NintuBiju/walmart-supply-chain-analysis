@@ -72,6 +72,6 @@ See [`data/data_description.md`](data/data_description.md) for full details.
 ---
 
 ## 👤 Author
-**Nintu**  
+**Nintu Biju**  
 Aspiring Data Analyst  
-[LinkedIn](#) | [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/nintu-biju) | [GitHub](https://github.com/NintuBiju)
